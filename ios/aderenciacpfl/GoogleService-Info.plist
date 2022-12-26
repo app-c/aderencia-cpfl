@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>438939044421-5kb0dv4t3nsn23o343dhc50me73vqjf6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.438939044421-5kb0dv4t3nsn23o343dhc50me73vqjf6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDxtNALtJQOMHYkhvwofTcg5ZpWxeTzd0Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>438939044421</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.appc.aderencia</string>
+	<key>PROJECT_ID</key>
+	<string>aderencia-13c86</string>
+	<key>STORAGE_BUCKET</key>
+	<string>aderencia-13c86.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:438939044421:ios:51a8c4b61a91430424312c</string>
+</dict>
+</plist>
